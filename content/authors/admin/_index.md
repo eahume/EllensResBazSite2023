@@ -18,8 +18,8 @@ role: PhD researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Te Pūnaha Matatini and The University of Auckland
+    url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ellen Hume is a PhD student with Te Pūnaha Matatini at the University of Auckland who is passionate about conducting transdisciplinary research with stakeholders to improve environmental outcomes for New Zealand. With a range of research experiences from ecology to sustainable agricultural production, systems modelling and environmental policy, Ellen aims to use innovative and integrated research approaches to deal with problems arising from complex systems and generate impact through enabling societal change.
 {style="text-align: justify;"}
